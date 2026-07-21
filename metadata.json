@@ -1,0 +1,6 @@
+{
+  "name": "Pushpendra College of Pharmacy",
+  "description": "Official website of Pushpendra College of Pharmacy, Ambikapur, Chhattisgarh. Offering premium D.Pharm and B.Pharm courses with state-of-the-art facilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
